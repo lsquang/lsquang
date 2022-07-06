@@ -9,3 +9,4 @@ public interface TransferWiseCore {
     void updateTransaction(String transactionId,
                             TransactionStatus transactionStatus);
 }
+
